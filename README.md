@@ -24,3 +24,6 @@ I have 9+ years of commercial software-development experience. I build backend s
 
 `Go` · `PostgreSQL` · `Docker` · `REST/WebSocket APIs` · `Linux` · `GitHub Actions`
 
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/oleksandr-avramchuk/)
